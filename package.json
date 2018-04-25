@@ -1,0 +1,16 @@
+{
+  "name": "web-scrapping",
+  "version": "1.0.0",
+  "description": "Basic web scrapping example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruy Mallo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "jsonfile": "^4.0.0"
+  }
+}
