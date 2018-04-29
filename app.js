@@ -6,11 +6,6 @@ const testArr = require('./sites-to-test')
 var jsonfile = require('jsonfile')
 
 
-
-
-// axios.get('http://www.abproject.com.ar/es/')
-
-
 let promises = []
 
 testArr.forEach((e,i) => {
